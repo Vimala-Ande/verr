@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langserve
+langchain-core
+langchain-google-genai
+pydantic
+sse-starlette
+google-auth==2.49.0
